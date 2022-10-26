@@ -6,6 +6,7 @@
 * **Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing**, Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, Graham Neubig, 
 [[Paper](https://arxiv.org/abs/2107.13586)]
 [[Project](http://pretrain.nlpedia.ai/)]
+[[Github](https://github.com/pfliu-nlp/NLPedia-Pretrain)]
 
  
 
