@@ -16,6 +16,10 @@
 [[Paper](https://arxiv.org/abs/2110.08484)] 
 [[Code](https://github.com/woojeongjin/FewVLM)] 
 
+* **CLIP-Adapter: Better Vision-Language Models with Feature Adapters**, 
+[[Paper](https://arxiv.org/pdf/2110.04544.pdf)]
+[[Code](https://github.com/gaopengcuhk/CLIP-Adapter)]
+
 
 
 ## Year 2021 
