@@ -20,6 +20,9 @@
 [[Paper](https://arxiv.org/pdf/2110.04544.pdf)]
 [[Code](https://github.com/gaopengcuhk/CLIP-Adapter)]
 
+* **Prompting through Prototype: A Prototype-based Prompt Learning on Pretrained Vision-Language Models**, 
+[[Paper](https://arxiv.org/pdf/2210.10841.pdf)]
+
 
 
 ## Year 2021 
