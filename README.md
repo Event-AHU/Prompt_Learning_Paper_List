@@ -13,6 +13,11 @@
 
 ## Year 2022 
 
+* Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models, 
+[[Paper](https://arxiv.org/pdf/2209.07511.pdf)] 
+[[Project](https://azshue.github.io/TPT/)]
+[[Code](https://github.com/azshue/TPT)]
+
 * **Z-LaVI: Zero-Shot Language Solver Fueled by Visual Imagination**, Yue Yang et al. 
 [[Paper](https://arxiv.org/pdf/2210.12261.pdf)]
 [[Code](https://github.com/YueYANG1996/Z-LaVI)]
