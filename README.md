@@ -13,7 +13,13 @@
 
 ## Year 2022 
 
-* Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models, 
+
+* **Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models**, Chengcheng Ma et al. 
+[[Paper](https://arxiv.org/pdf/2211.02219.pdf)] 
+[[Code](https://tinyurl.com/mpe64f89)]
+
+
+* **Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**, 
 [[Paper](https://arxiv.org/pdf/2209.07511.pdf)] 
 [[Project](https://azshue.github.io/TPT/)]
 [[Code](https://github.com/azshue/TPT)]
