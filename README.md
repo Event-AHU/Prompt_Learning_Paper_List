@@ -13,6 +13,10 @@
 
 ## Year 2022 
 
+* **Multitask Vision-Language Prompt Tuning**, Sheng Shen†* Shijia Yang†∗ Tianjun Zhang†∗ Bohan Zhai 
+[[Paper](https://arxiv.org/pdf/2211.11720.pdf)]
+[[Code](https://github.com/sIncerass/MVLPT)]
+
 
 * **Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models**, Chengcheng Ma et al. 
 [[Paper](https://arxiv.org/pdf/2211.02219.pdf)] 
