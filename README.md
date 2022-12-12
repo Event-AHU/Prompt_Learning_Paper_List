@@ -13,6 +13,10 @@
 
 ## Year 2022 
 
+* **PIVOT: Prompting for Video Continual Learning**, Andrés Villa1,2, Juan León Alcázar2, Motasem Alfarra2, Kumail Alhamoud2, Julio Hurtado3
+[[Paper](https://arxiv.org/pdf/2212.04842.pdf)] 
+[[Code]()]
+
 * **Multitask Vision-Language Prompt Tuning**, Sheng Shen†* Shijia Yang†∗ Tianjun Zhang†∗ Bohan Zhai 
 [[Paper](https://arxiv.org/pdf/2211.11720.pdf)]
 [[Code](https://github.com/sIncerass/MVLPT)]
