@@ -13,6 +13,10 @@
 
 ## Year 2022 
 
+* **PIVOT: Prompting for Video Continual Learning**, Andrés Villa, Juan León Alcázar, Motasem Alfarra, Kumail Alhamoud, Julio Hurtado, Fabian Caba Heilbron, Alvaro Soto, Bernard Ghanem 
+[[Paper](https://arxiv.org/pdf/2212.04842.pdf)]
+
+
 * **PIVOT: Prompting for Video Continual Learning**, Andrés Villa1,2, Juan León Alcázar2, Motasem Alfarra2, Kumail Alhamoud2, Julio Hurtado3
 [[Paper](https://arxiv.org/pdf/2212.04842.pdf)] 
 [[Code]()]
