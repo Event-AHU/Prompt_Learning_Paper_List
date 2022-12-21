@@ -13,13 +13,17 @@
 
 ## Year 2022 
 
-* **Conditional Prompt Learning for Vision-Language Models**,Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu ,CVPR2022
+* **Conditional Prompt Learning for Vision-Language Models**,Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu, CVPR2022
 [[Paper](https://arxiv.org/pdf/2203.05557.pdf)] 
 [[Code])(https://github.com/KaiyangZhou/CoOp)]
 
-* **Learning to Prompt for Vision-Language Models**,Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu ,IJCV2022
+* **Learning to Prompt for Vision-Language Models**,Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu, IJCV2022
 [[Paper](https://arxiv.org/pdf/2109.01134.pdf)] 
 [[Code])(https://github.com/KaiyangZhou/CoOp)]
+
+* **Visual Prompt Tuning**,Menglin Jia∗1,2, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim, ECCV2022
+[[Paper](https://arxiv.org/abs/2203.12119)] 
+[[Code])(https://github.com/kmnp/vpt)]
 
 * **Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**,Manli Shu, Weili Nie, De-An Huang, Zhiding Yu, Tom Goldstein, Anima Anandkumar, Chaowei Xiao
 [[Paper](https://arxiv.org/pdf/2209.07511.pdf)] 
