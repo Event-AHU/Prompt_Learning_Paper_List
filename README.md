@@ -13,6 +13,42 @@
 
 ## Year 2022 
 
+* **Conditional Prompt Learning for Vision-Language Models**,Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu ,CVPR2022
+[[Paper](https://arxiv.org/pdf/2203.05557.pdf)] 
+[[Code])(https://github.com/KaiyangZhou/CoOp)]
+
+* **Learning to Prompt for Vision-Language Models**,Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu ,IJCV2022
+[[Paper](https://arxiv.org/pdf/2109.01134.pdf)] 
+[[Code])(https://github.com/KaiyangZhou/CoOp)]
+
+* **Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**,Manli Shu, Weili Nie, De-An Huang, Zhiding Yu, Tom Goldstein, Anima Anandkumar, Chaowei Xiao
+[[Paper](https://arxiv.org/pdf/2209.07511.pdf)] 
+[[Code](https://azshue.github.io/TPT/)]
+
+* **LPT: LONG-TAILED PROMPT TUNING FOR IMAGE CLASSIFICATION**,Bowen Dong, Pan Zhou, Shuicheng Yan, Wangmeng Zuo
+[[Paper](https://arxiv.org/pdf/2210.01033.pdf)] 
+[[Code]()]
+
+* **MAPLE: MULTI-MODAL PROMPT LEARNING**,Muhammad Uzair Khattak, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad Shahbaz Khan
+[[Paper](https://arxiv.org/pdf/2210.03117.pdf)] 
+[[Code](https://tinyurl.com/2dzs8f3w)]
+
+* **Texts as Images in Prompt Tuning for Multi-Label Image Recognition**,Zixian Guo, Bowen Dong, Zhilong Ji, Jinfeng Bai, Yiwen Guo, Wangmeng Zuo
+[[Paper](https://arxiv.org/pdf/2211.12739.pdf)] 
+[[Code](https://github.com/guozix/TaI-DPT)]
+
+* **DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations**,Ximeng Sun, Ping Hu, Kate Saenko, NIPS202
+[[Paper](https://arxiv.org/pdf/2206.09541.pdf)] 
+[[Code]()]
+
+* **CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning**,James Seale Smith, Leonid Karlinsky, Vyshnavi Gutta, Paola Cascante-Bonilla ,Donghyun Kim, Assaf Arbelle, Rameswar Panda, Rogerio Feris, Zsolt Kira1
+[[Paper](https://arxiv.org/pdf/2211.11720.pdf)] 
+[[Code]()]
+
+* **Unleashing the Power of Visual Prompting At the Pixel Level**,Junyang Wu, Xianhang Li, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie
+[[Paper](https://arxiv.org/pdf/2211.13218.pdf)] 
+[[Code](https://github.com/UCSC-VLAA/EVP)]
+
 * **PIVOT: Prompting for Video Continual Learning**, Andrés Villa, Juan León Alcázar, Motasem Alfarra, Kumail Alhamoud, Julio Hurtado, Fabian Caba Heilbron, Alvaro Soto, Bernard Ghanem 
 [[Paper](https://arxiv.org/pdf/2212.04842.pdf)] 
 [[Code]()]
@@ -54,8 +90,9 @@
 
 ## Year 2021 
 
-
-
+* **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS**, Yuan Yao1, Ao Zhang, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun
+[[Paper](https://arxiv.org/pdf/2109.11797.pdf)]
+[[Code](https://github.com/thunlp/CPT)]
 
 
 ## Year 2020 
