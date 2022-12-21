@@ -86,7 +86,7 @@
 
 ## Year 2021 
 
-* **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS**, Yuan Yao1, Ao Zhang, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun
+* **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS**, Yuan Yao, Ao Zhang, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun
 [[Paper](https://arxiv.org/pdf/2109.11797.pdf)]
 [[Code](https://github.com/thunlp/CPT)]
 
