@@ -15,11 +15,12 @@
 
 * **Conditional Prompt Learning for Vision-Language Models**,Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu, CVPR2022
 [[Paper](https://arxiv.org/pdf/2203.05557.pdf)] 
-[[Code])(https://github.com/KaiyangZhou/CoOp)]
+[[Code](https://github.com/KaiyangZhou/CoOp)]
 
 * **Learning to Prompt for Vision-Language Models**,Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu, IJCV2022
 [[Paper](https://arxiv.org/pdf/2109.01134.pdf)] 
-[[Code])(https://github.com/KaiyangZhou/CoOp)]
+[[Code](https://github.com/KaiyangZhou/CoOp)]
+
 
 * **Visual Prompt Tuning**,Menglin Jia∗1,2, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim, ECCV2022
 [[Paper](https://arxiv.org/abs/2203.12119)] 
@@ -27,11 +28,11 @@
 
 * **Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**,Manli Shu, Weili Nie, De-An Huang, Zhiding Yu, Tom Goldstein, Anima Anandkumar, Chaowei Xiao
 [[Paper](https://arxiv.org/pdf/2209.07511.pdf)] 
-[[Code](https://azshue.github.io/TPT/)]
+[[Project](https://azshue.github.io/TPT/)]
+[[Code](https://github.com/azshue/TPT)]
 
 * **LPT: LONG-TAILED PROMPT TUNING FOR IMAGE CLASSIFICATION**,Bowen Dong, Pan Zhou, Shuicheng Yan, Wangmeng Zuo
 [[Paper](https://arxiv.org/pdf/2210.01033.pdf)] 
-[[Code]()]
 
 * **MAPLE: MULTI-MODAL PROMPT LEARNING**,Muhammad Uzair Khattak, Hanoona Rasheed, Muhammad Maaz, Salman Khan, Fahad Shahbaz Khan
 [[Paper](https://arxiv.org/pdf/2210.03117.pdf)] 
@@ -43,11 +44,9 @@
 
 * **DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations**,Ximeng Sun, Ping Hu, Kate Saenko, NIPS202
 [[Paper](https://arxiv.org/pdf/2206.09541.pdf)] 
-[[Code]()]
 
 * **CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning**,James Seale Smith, Leonid Karlinsky, Vyshnavi Gutta, Paola Cascante-Bonilla ,Donghyun Kim, Assaf Arbelle, Rameswar Panda, Rogerio Feris, Zsolt Kira1
 [[Paper](https://arxiv.org/pdf/2211.11720.pdf)] 
-[[Code]()]
 
 * **Unleashing the Power of Visual Prompting At the Pixel Level**,Junyang Wu, Xianhang Li, Chen Wei, Huiyu Wang, Alan Yuille, Yuyin Zhou, Cihang Xie
 [[Paper](https://arxiv.org/pdf/2211.13218.pdf)] 
@@ -55,7 +54,6 @@
 
 * **PIVOT: Prompting for Video Continual Learning**, Andrés Villa, Juan León Alcázar, Motasem Alfarra, Kumail Alhamoud, Julio Hurtado, Fabian Caba Heilbron, Alvaro Soto, Bernard Ghanem 
 [[Paper](https://arxiv.org/pdf/2212.04842.pdf)] 
-[[Code]()]
 
 * **Multitask Vision-Language Prompt Tuning**, Sheng Shen†* Shijia Yang†∗ Tianjun Zhang†∗ Bohan Zhai 
 [[Paper](https://arxiv.org/pdf/2211.11720.pdf)]
@@ -65,12 +63,6 @@
 * **Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models**, Chengcheng Ma et al. 
 [[Paper](https://arxiv.org/pdf/2211.02219.pdf)] 
 [[Code](https://tinyurl.com/mpe64f89)]
-
-
-* **Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models**, 
-[[Paper](https://arxiv.org/pdf/2209.07511.pdf)] 
-[[Project](https://azshue.github.io/TPT/)]
-[[Code](https://github.com/azshue/TPT)]
 
 * **Z-LaVI: Zero-Shot Language Solver Fueled by Visual Imagination**, Yue Yang et al. 
 [[Paper](https://arxiv.org/pdf/2210.12261.pdf)]
