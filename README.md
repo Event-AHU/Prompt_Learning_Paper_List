@@ -8,6 +8,10 @@
 [[Project](http://pretrain.nlpedia.ai/)]
 [[Github](https://github.com/pfliu-nlp/NLPedia-Pretrain)]
 
+* **Reasoning with Language Model Prompting: A Survey**, Shuofei Qiao1,2∗, Yixin Ou1,2∗, Ningyu Zhang1,2†, Xiang Chen1,2, Yunzhi Yao,Shumin Deng4, Chuanqi Tan3, Fei Huang3, Huajun Chen, 
+[[Paper](https://arxiv.org/pdf/2212.09597.pdf)]
+[[Github](https://github.com/zjunlp/Prompt4ReasoningPapers)]
+
  
 
 
