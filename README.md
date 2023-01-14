@@ -17,6 +17,10 @@
 
 ## Year 2022 
 
+* Guo, Jiaxian, et al. "From Images to Textual Prompts: Zero-shot VQA with Frozen Large Language Models." arXiv preprint arXiv:2212.10846 (2022). 
+[[Paper](https://arxiv.org/pdf/2212.10846.pdf)] 
+[[Code](https://github.com/salesforce/LAVIS/tree/main/projects/img2prompt-vqa)]
+
 * **Conditional Prompt Learning for Vision-Language Models**,Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu, CVPR2022
 [[Paper](https://arxiv.org/pdf/2203.05557.pdf)] 
 [[Code](https://github.com/KaiyangZhou/CoOp)]
