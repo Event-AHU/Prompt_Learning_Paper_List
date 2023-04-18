@@ -12,7 +12,14 @@
 [[Paper](https://arxiv.org/pdf/2212.09597.pdf)]
 [[Github](https://github.com/zjunlp/Prompt4ReasoningPapers)]
 
- 
+
+## Year 2023 
+
+* **Progressive Visual Prompt Learning with Contrastive Feature Re-formation**, Chen Xu, Haocheng Shen Fengyuan Shi Boheng Chen Yixuan Liao Xiaoxin Chen Limin Wang 
+[[Paper](https://arxiv.org/pdf/2304.08386.pdf)]
+
+* **Towards Robust Prompts on Vision-Language Models**， Jindong Gu, Ahmad Beirami, Xuezhi Wang, Alex Beutel, Philip Torr, and Yao Qin 
+[[Paper](https://arxiv.org/pdf/2304.08479.pdf)] 
 
 
 ## Year 2022 
