@@ -15,6 +15,13 @@
 
 ## Year 2023 
 
+* **MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation**, Jie Guo Qimeng Wang Yan Gao Xiaolong Jiang Xu Tang Yao Hu Baochang Zhang 
+[[Paper](https://arxiv.org/pdf/2304.06957.pdf)]
+
+* **Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models**, Yaohua Zha, Jinpeng Wang, Tao Dai,*, Bin Chen, Zhi Wang, and Shu-Tao Xia 
+[[Paper](https://arxiv.org/pdf/2304.07221.pdf)] 
+[[Code](https://github.com/zyh16143998882/IDPT)]
+
 * **Chain of Thought Prompt Tuning for Vision-Language Models**, Jiaxin Ge Hongyin Luo Siyuan Qian Yulu Gan Jie Fu 
 [[Paper](https://arxiv.org/pdf/2304.07919.pdf)]
 
