@@ -15,6 +15,9 @@
 
 ## Year 2023 
 
+* **Chain of Thought Prompt Tuning for Vision-Language Models**, Jiaxin Ge Hongyin Luo Siyuan Qian Yulu Gan Jie Fu 
+[[Paper](https://arxiv.org/pdf/2304.07919.pdf)]
+
 * **Progressive Visual Prompt Learning with Contrastive Feature Re-formation**, Chen Xu, Haocheng Shen Fengyuan Shi Boheng Chen Yixuan Liao Xiaoxin Chen Limin Wang 
 [[Paper](https://arxiv.org/pdf/2304.08386.pdf)]
 
