@@ -15,6 +15,10 @@
 
 ## Year 2023 
 
+* **Transfer Visual Prompt Generator across LLMs**, Ao Zhang Hao Fei Yuan Yao Wei Ji Li Li Zhiyuan Liu Tat-Seng Chua
+[[Paper](https://arxiv.org/pdf/2305.01278.pdf)] 
+[[Code](https://vpgtrans.github.io/)]
+
 * **MVP-SEG: Multi-View Prompt Learning for Open-Vocabulary Semantic Segmentation**, Jie Guo Qimeng Wang Yan Gao Xiaolong Jiang Xu Tang Yao Hu Baochang Zhang 
 [[Paper](https://arxiv.org/pdf/2304.06957.pdf)]
 
