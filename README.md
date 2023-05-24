@@ -15,6 +15,10 @@
 
 ## Year 2023 
 
+* **Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization**, (ACL 2023) Anastasia Razdaibiedina, Yuning Mao, Rui Hou, Madian Khabsa, Mike Lewis, Jimmy Ba and Amjad Almahairi. 
+[[Paper](https://arxiv.org/pdf/2305.03937.pdf)] 
+[[Code](https://github.com/arazd/ResidualPrompts)] 
+
 * **Transfer Visual Prompt Generator across LLMs**, Ao Zhang Hao Fei Yuan Yao Wei Ji Li Li Zhiyuan Liu Tat-Seng Chua
 [[Paper](https://arxiv.org/pdf/2305.01278.pdf)] 
 [[Code](https://vpgtrans.github.io/)]
