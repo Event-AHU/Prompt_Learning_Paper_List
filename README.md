@@ -15,6 +15,13 @@
 
 ## Year 2023 
 
+* **Deeply Coupled Cross-Modal Prompt Learning**, 
+[[Paper](https://arxiv.org/pdf/2305.17903.pdf)] 
+[[Code](https://github.com/GingL/CMPA)]
+
+* **Do We Really Need a Large Number of Visual Prompts?** 
+[[Paper](https://arxiv.org/pdf/2305.17223.pdf)]
+
 * **Residual Prompt Tuning: Improving Prompt Tuning with Residual Reparameterization**, (ACL 2023) Anastasia Razdaibiedina, Yuning Mao, Rui Hou, Madian Khabsa, Mike Lewis, Jimmy Ba and Amjad Almahairi. 
 [[Paper](https://arxiv.org/pdf/2305.03937.pdf)] 
 [[Code](https://github.com/arazd/ResidualPrompts)] 
