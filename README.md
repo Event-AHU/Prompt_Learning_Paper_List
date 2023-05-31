@@ -16,6 +16,10 @@
 ## Year 2023 
 
 
+* **Explicit Visual Prompting for Universal Foreground Segmentations**, Weihuang Liu, Xi Shen, Chi-Man Pun, and Xiaodong Cun 
+[[Paper](https://arxiv.org/pdf/2305.18476.pdf)] 
+[[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)] 
+
 * **LMPT: Prompt Tuning with Class-Specific Embedding Loss for Long-Tailed Multi-Label Visual Recognition**, Peng Xia1, 2, 4 Di Xu5 Lie Ju1, 2, 3, * Ming Hu1, 2, 3 Jun Chen6 Zongyuan Ge 
 [[Paper](https://arxiv.org/pdf/2305.04536.pdf)] 
 [[Code](https://github.com/richard-peng-xia/LMPT)]
