@@ -16,6 +16,9 @@
 ## Year 2023 
 
 
+* **ProTeCt: Prompt Tuning for Hierarchical Consistency**, Tz-Ying Wu, Chih-Hui Ho, Nuno Vasconcelos 
+[[Paper](https://arxiv.org/abs/2306.02240)]
+
 * **Explicit Visual Prompting for Universal Foreground Segmentations**, Weihuang Liu, Xi Shen, Chi-Man Pun, and Xiaodong Cun 
 [[Paper](https://arxiv.org/pdf/2305.18476.pdf)] 
 [[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)] 
