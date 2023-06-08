@@ -16,6 +16,9 @@
 ## Year 2023 
 
 
+* **Fine-Grained Visual Prompting**, Lingfeng Yang, Yueze Wang, Xiang Li, Xinlong Wang, Jian Yang
+[[Paper](https://arxiv.org/pdf/2306.04356.pdf)] 
+
 * **ProTeCt: Prompt Tuning for Hierarchical Consistency**, Tz-Ying Wu, Chih-Hui Ho, Nuno Vasconcelos 
 [[Paper](https://arxiv.org/abs/2306.02240)]
 
