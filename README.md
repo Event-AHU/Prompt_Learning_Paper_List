@@ -16,6 +16,9 @@
 ## Year 2023 
 
 
+* **Prompt Learning for Action Recognition**, Xijun Wang*, Ruiqi Xian*, Tianrui Guan, Dinesh Manocha
+[[Paper](https://arxiv.org/pdf/2305.12437.pdf)]  
+
 * **Fine-Grained Visual Prompting**, Lingfeng Yang, Yueze Wang, Xiang Li, Xinlong Wang, Jian Yang
 [[Paper](https://arxiv.org/pdf/2306.04356.pdf)] 
 
