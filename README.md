@@ -16,6 +16,10 @@
 ## Year 2023 
 
 
+* Tuning Multi-mode Token-level Prompt Alignment across Modalities, Dongsheng Wang, Miaoge Li, Xinyang Liu, MingSheng Xu, Bo Chen 
+[[Paper](https://arxiv.org/pdf/2309.13847.pdf)]
+[[Code](https://github.com/wds2014/ALIGN)]
+
 * **Prompt Learning for Action Recognition**, Xijun Wang*, Ruiqi Xian*, Tianrui Guan, Dinesh Manocha
 [[Paper](https://arxiv.org/pdf/2305.12437.pdf)]  
 
