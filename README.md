@@ -16,7 +16,9 @@
 ## Year 2023 
 
 
-* Tuning Multi-mode Token-level Prompt Alignment across Modalities, Dongsheng Wang, Miaoge Li, Xinyang Liu, MingSheng Xu, Bo Chen 
+* **Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**, [[Paper](https://arxiv.org/pdf/2309.15664.pdf)]
+
+* **Tuning Multi-mode Token-level Prompt Alignment across Modalities**, Dongsheng Wang, Miaoge Li, Xinyang Liu, MingSheng Xu, Bo Chen 
 [[Paper](https://arxiv.org/pdf/2309.13847.pdf)]
 [[Code](https://github.com/wds2014/ALIGN)]
 
