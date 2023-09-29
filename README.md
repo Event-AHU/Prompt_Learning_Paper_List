@@ -16,6 +16,8 @@
 ## Year 2023 
 
 
+* [ICCV-2023] **Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models**, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kan_Knowledge-Aware_Prompt_Tuning_for_Generalizable_Vision-Language_Models_ICCV_2023_paper.pdf)]
+
 * **Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**, [[Paper](https://arxiv.org/pdf/2309.15664.pdf)]
 
 * **Tuning Multi-mode Token-level Prompt Alignment across Modalities**, Dongsheng Wang, Miaoge Li, Xinyang Liu, MingSheng Xu, Bo Chen 
