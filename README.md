@@ -16,6 +16,13 @@
 ## Year 2023 
 
 
+* [arXiv-2023] **Active Prompt Learning in Vision Language Models**, [[Paper](https://arxiv.org/pdf/2311.11178.pdf)] 
+
+* [arXiv-2023] **Adversarial Prompt Tuning for Vision-Language Models**, [[Paper](https://arxiv.org/pdf/2311.11208.pdf)]
+
+* [arXiv-2023] **FreeKD: Knowledge Distillation via Semantic Frequency Prompt**, [[Paper](https://arxiv.org/pdf/2311.12079.pdf)]
+
+
 * [ICCV-2023] **Knowledge-Aware Prompt Tuning for Generalizable Vision-Language Models**, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Kan_Knowledge-Aware_Prompt_Tuning_for_Generalizable_Vision-Language_Models_ICCV_2023_paper.pdf)]
 
 * **Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing**, [[Paper](https://arxiv.org/pdf/2309.15664.pdf)]
