@@ -16,6 +16,10 @@
 ## Year 2023 
 
 
+* [arXiv-2023] **Visual In-Context Prompting**, Feng Li, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao 
+[[Paper](https://arxiv.org/pdf/2311.13601.pdf)]
+[[Code](https://github.com/UX-Decoder/DINOv)] 
+
 * [arXiv-2023] **Active Prompt Learning in Vision Language Models**, [[Paper](https://arxiv.org/pdf/2311.11178.pdf)] 
 
 * [arXiv-2023] **Adversarial Prompt Tuning for Vision-Language Models**, [[Paper](https://arxiv.org/pdf/2311.11208.pdf)]
