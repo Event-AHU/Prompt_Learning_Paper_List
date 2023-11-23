@@ -16,6 +16,10 @@
 ## Year 2023 
 
 
+* 
+
+* [arXiv-2023] **T-Rex: Counting by Visual Prompting**, [[Paper](https://arxiv.org/pdf/2311.13596.pdf)] [[Code](https://trex-counting.github.io/)] 
+
 * [arXiv-2023] **Visual In-Context Prompting**, Feng Li, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao 
 [[Paper](https://arxiv.org/pdf/2311.13601.pdf)]
 [[Code](https://github.com/UX-Decoder/DINOv)] 
