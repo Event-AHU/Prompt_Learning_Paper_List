@@ -18,6 +18,10 @@
 
 * 
 
+* **Image Super-Resolution with Text Prompt Diffusion**, Zheng Chen, Yulun Zhang, Jinjin Gu, Xin Yuan, Linghe Kong, Guihai Chen, Xiaokang Yang
+[[Paper](https://arxiv.org/pdf/2311.14282.pdf)] 
+[[Code](https://github.com/zhengchen1999/PromptSR)] 
+
 * [arXiv-2023] **T-Rex: Counting by Visual Prompting**, [[Paper](https://arxiv.org/pdf/2311.13596.pdf)] [[Code](https://trex-counting.github.io/)] 
 
 * [arXiv-2023] **Visual In-Context Prompting**, Feng Li, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao 
