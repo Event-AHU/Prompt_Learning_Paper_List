@@ -1,4 +1,4 @@
-# Prompt_Learning_Paper_List 
+![48C330E9](https://github.com/Event-AHU/Prompt_Learning_Paper_List/assets/12805786/8b91f723-f762-4cc6-98d4-c2bc3bf0f3e4)# Prompt_Learning_Paper_List 
 
 
 
@@ -16,7 +16,8 @@
 ## Year 2023 
 
 
-* 
+* **Regressor-Segmenter Mutual Prompt Learning for Crowd Counting**, Mingyue Guo, Li Yuan, Zhaoyi Yan, Binghui Chen, Yaowei Wang, Qixiang Ye, 
+  [[Paper](https://arxiv.org/pdf/2312.01711.pdf)] 
 
 * **Image Super-Resolution with Text Prompt Diffusion**, Zheng Chen, Yulun Zhang, Jinjin Gu, Xin Yuan, Linghe Kong, Guihai Chen, Xiaokang Yang
 [[Paper](https://arxiv.org/pdf/2311.14282.pdf)] 
