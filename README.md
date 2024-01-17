@@ -14,6 +14,14 @@
 [[Github](https://github.com/zjunlp/Prompt4ReasoningPapers)]
 
 
+## Year 2024 
+
+* [AAAI-2024] **Concept-Guided Prompt Learning for Generalization in Vision-Language Models**, Yi Zhang1,2, Ce Zhang3, Ke Yu2, Yushun Tang2, Zhihai He
+  [[Paper](https://arxiv.org/pdf/2401.07457.pdf)]
+
+
+
+
 ## Year 2023 
 
 
