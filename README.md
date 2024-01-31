@@ -21,6 +21,10 @@
 
 ## Year 2024 
 
+
+* **Memory-Efficient Prompt Tuning for Incremental Histopathology Classification**, Yu Zhu1,2*, Kang Li1*†, Lequan Yu3, Pheng-Ann Heng
+  [[Paper](https://arxiv.org/pdf/2401.11674.pdf)]
+  
 * [AAAI-2024] **Concept-Guided Prompt Learning for Generalization in Vision-Language Models**, Yi Zhang1,2, Ce Zhang3, Ke Yu2, Yushun Tang2, Zhihai He
   [[Paper](https://arxiv.org/pdf/2401.07457.pdf)]
 
