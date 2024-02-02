@@ -21,6 +21,10 @@
 
 ## Year 2024 
 
+* 
+
+* Bai, Yang, et al. "**Sentence-level prompts benefit composed image retrieval.**" arXiv preprint arXiv:2310.05473 (2023).
+  [[Paper](https://arxiv.org/abs/2310.05473)] 
 
 * **Memory-Efficient Prompt Tuning for Incremental Histopathology Classification**, Yu Zhu1,2*, Kang Li1*†, Lequan Yu3, Pheng-Ann Heng
   [[Paper](https://arxiv.org/pdf/2401.11674.pdf)]
