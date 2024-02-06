@@ -21,6 +21,12 @@
 
 ## Year 2024 
 
+* 
+
+* **Spatio-temporal Prompting Network for Robust Video Feature Extraction**, Guanxiong Sun, Chi Wang, Zhaoyu Zhang, Jiankang Deng, Stefanos Zafeiriou, Yang Hua
+  [[Paper](https://arxiv.org/abs/2402.02574)]
+  [[Code](https://github.com/guanxiongsun/vfe.pytorch)] 
+
 * **Revisiting the Power of Prompt for Visual Tuning**, Yuzhu Wang, Lechao Cheng, Chaowei Fang, Dingwen Zhang, Manni Duan, Meng Wang
   [[Paper](https://arxiv.org/abs/2402.02382)] 
 
