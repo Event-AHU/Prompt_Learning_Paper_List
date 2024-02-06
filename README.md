@@ -21,7 +21,8 @@
 
 ## Year 2024 
 
-* 
+* **Revisiting the Power of Prompt for Visual Tuning**, Yuzhu Wang, Lechao Cheng, Chaowei Fang, Dingwen Zhang, Manni Duan, Meng Wang
+  [[Paper](https://arxiv.org/abs/2402.02382)] 
 
 * Bai, Yang, et al. "**Sentence-level prompts benefit composed image retrieval.**" arXiv preprint arXiv:2310.05473 (2023).
   [[Paper](https://arxiv.org/abs/2310.05473)]
