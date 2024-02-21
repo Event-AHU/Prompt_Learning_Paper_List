@@ -21,7 +21,9 @@
 
 ## Year 2024 
 
-* 
+* **UniCell: Universal Cell Nucleus Classification via Prompt Learning**, Junjia Huang, Haofeng Li, Xiang Wan, Guanbin Li
+  [[Paper](https://arxiv.org/abs/2402.12938)]
+  [[Code](https://github.com/lhaof/UniCell)] 
 
 * **Spatio-temporal Prompting Network for Robust Video Feature Extraction**, Guanxiong Sun, Chi Wang, Zhaoyu Zhang, Jiankang Deng, Stefanos Zafeiriou, Yang Hua
   [[Paper](https://arxiv.org/abs/2402.02574)]
