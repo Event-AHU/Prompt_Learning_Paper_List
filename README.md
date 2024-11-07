@@ -21,6 +21,11 @@
 
 ## Year 2024 
 
+
+* **MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba**,
+  Masakazu Yoshimura, Teruaki Hayashi, Yota Maeda
+  [[Paper](https://arxiv.org/abs/2411.03855)] 
+
 * **UniCell: Universal Cell Nucleus Classification via Prompt Learning**, Junjia Huang, Haofeng Li, Xiang Wan, Guanbin Li
   [[Paper](https://arxiv.org/abs/2402.12938)]
   [[Code](https://github.com/lhaof/UniCell)] 
